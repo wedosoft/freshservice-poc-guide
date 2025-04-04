@@ -7,6 +7,9 @@ title: GS Freshservice PoC 가이드
 description: GS의 Freshservice 도입을 위한 PoC 가이드 및 자료
 show_downloads: true
 
+# 테마 색상 설정
+theme_color: "#107af2"
+
 # 사이트 네비게이션 설정
 navigation:
   - title: 홈
