@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # GS Freshservice PoC 가이드
 
 이 웹사이트는 GS의 Freshservice 도입을 위한 PoC(Proof of Concept) 가이드 및 자료를 제공합니다.
@@ -31,5 +30,3 @@ PC, 아이패드 등 자산 데이터 샘플과 자산 수명주기 관리 워�
 ### [라이선스 권장사항](./license-recommendations)
 Pro와 Enterprise 플랜의 상세 비교 분석과 GS에 적합한 라이선스 권장사항입니다.
 
-### [프레젠테이션 자료](./presentation)
-PoC 개요, 워크플로우 가이드, 라이선스 옵션, 추가 지원 옵션 등을 포함한 프레젠테이션 자료입니다.
