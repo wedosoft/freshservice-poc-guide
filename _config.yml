@@ -3,6 +3,9 @@ plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
 
+github:
+  is_project_page: false
+
 title: GS Freshservice PoC 가이드
 description: GS의 Freshservice 도입을 위한 PoC 가이드 및 자료
 show_downloads: false
