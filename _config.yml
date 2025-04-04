@@ -7,6 +7,11 @@ title: GS Freshservice PoC 가이드
 description: GS의 Freshservice 도입을 위한 PoC 가이드 및 자료
 show_downloads: true
 
+# 커스텀 CSS 활성화
+sass:
+  sass_dir: assets/css
+  style: compressed
+
 # 사이트 네비게이션 설정
 navigation:
   - title: 홈
