@@ -6,6 +6,7 @@ plugins:
 title: GS Freshservice PoC 가이드
 description: GS의 Freshservice 도입을 위한 PoC 가이드 및 자료
 show_downloads: false
+show_github_button: false
 
 # 사이트 네비게이션 설정
 navigation:
