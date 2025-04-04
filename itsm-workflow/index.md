@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# ITMS 워크플로우 템플릿
+# ITSM 워크플로우 템플릿
 
 ## 1. 워크플로우 개요
 

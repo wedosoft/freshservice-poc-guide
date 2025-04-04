@@ -13,8 +13,8 @@ navigation:
     url: /
   - title: PoC 전략
     url: /strategy/
-  - title: ITMS 워크플로우
-    url: /itms-workflow/
+  - title: ITSM 워크플로우
+    url: /itsm-workflow/
   - title: 자산관리 워크플로우
     url: /asset-management/
   - title: 라이선스 권장사항

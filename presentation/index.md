@@ -11,7 +11,7 @@ layout: default
 - 현재 MS 환경의 SCIM을 사용 중이며, 보다 효율적이고 통합된 ITSM 솔루션 필요
 
 ### PoC 목표
-- ITMS 워크플로우 구현 및 시연을 통한 Freshservice 기능 검증
+- ITSM 워크플로우 구현 및 시연을 통한 Freshservice 기능 검증
 - IT 자산관리 워크플로우 구현 및 시연을 통한 자산관리 기능 검증
 - Freshservice의 사용자 경험 및 인터페이스 평가
 - 라이선스 옵션 평가 및 최적 플랜 결정

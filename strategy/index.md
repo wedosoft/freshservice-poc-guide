@@ -10,7 +10,7 @@ layout: default
 GS는 한국의 대기업으로, IT 서비스 관리 및 자산 관리를 위한 솔루션으로 Freshservice 도입을 검토하고 있습니다. 현재 MS 환경의 SCIM을 사용 중이며, 보다 효율적이고 통합된 ITSM 솔루션을 찾고 있습니다.
 
 ### PoC 목표
-- ITMS 워크플로우 구현 및 시연을 통한 Freshservice 기능 검증
+- ITSM 워크플로우 구현 및 시연을 통한 Freshservice 기능 검증
 - IT 자산관리 워크플로우 구현 및 시연을 통한 자산관리 기능 검증
 - Freshservice의 사용자 경험 및 인터페이스 평가
 - 라이선스 옵션 평가 및 최적 플랜 결정
