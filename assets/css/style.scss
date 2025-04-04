@@ -1,0 +1,38 @@
+@import "{{ site.theme }}";
+
+// GS 브랜드 색상
+$gs-blue: #107af2;
+
+// 헤더 배경 그라데이션 색상 수정
+.page-header {
+  background-color: $gs-blue;
+  background-image: linear-gradient(120deg, darken($gs-blue, 10%), $gs-blue);
+}
+
+// 링크 색상 수정
+a {
+  color: $gs-blue;
+  
+  &:hover {
+    color: darken($gs-blue, 15%);
+  }
+}
+
+// 버튼 색상 수정
+.btn {
+  background-color: $gs-blue;
+  
+  &:hover {
+    background-color: darken($gs-blue, 10%);
+  }
+}
+
+// 헤더 텍스트 색상
+.project-name, .project-tagline {
+  color: #ffffff;
+}
+
+// 메인 헤딩 색상
+h1, h2, h3, h4, h5, h6 {
+  color: darken($gs-blue, 10%);
+} 
