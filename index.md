@@ -33,9 +33,3 @@ Pro와 Enterprise 플랜의 상세 비교 분석과 GS에 적합한 라이선스
 
 ### [프레젠테이션 자료](./presentation)
 PoC 개요, 워크플로우 가이드, 라이선스 옵션, 추가 지원 옵션 등을 포함한 프레젠테이션 자료입니다.
-
-## 다운로드
-
-전체 PoC 패키지를 다운로드하여 오프라인에서도 활용할 수 있습니다.
-
-[PoC 패키지 다운로드](https://github.com/wedosoft/freshservice-poc-guide/archive/refs/heads/main.zip){: .btn }
