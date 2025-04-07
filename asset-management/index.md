@@ -691,4 +691,4 @@ GS-PC-0015,Dell Latitude 9420,노트북,Dell,Latitude 9420,CDE901234,2023-09-10,
 - 라이선스 규정 준수 모니터링
 - 자산 관련 감사 추적 기록 유지
 
-[홈으로 돌아가기](../) | [라이선스 권장사항](../license-recommendations/)
+[홈으로 돌아가기](../) | [라이선스 권장사항](../license-recommendations/) | [ITSM 워크플로우](../itsm-workflow/) | [PoC 전략](../strategy/)
