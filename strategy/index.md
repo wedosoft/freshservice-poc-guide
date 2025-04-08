@@ -28,7 +28,7 @@ layout: default
 ### 2.1 PoC 준비 단계
 1. **트라이얼 라이선스 설정**
    - Freshservice Enterprise 트라이얼 라이선스 제공 (14일)
-   - GS 도메인으로 Freshservice 인스턴스 생성 (https://gsholdings.freshservice.com)
+   - GS 도메인으로 Freshservice 인스턴스 생성 (<a href="https://gsholdings.freshservice.com" target="_blank">https://gsholdings.freshservice.com</a>)
    
 2. **사전 교육 세션**
    - Freshservice 기본 기능 및 인터페이스 소개 (1시간)

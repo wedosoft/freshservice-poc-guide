@@ -9,13 +9,13 @@
 ## Freshservice 계정 정보
 
 이 POC 가이드는 귀사의 Freshservice 계정에 맞게 설정되었습니다:
-- 계정 URL: https://gsholdings.freshservice.com/
+- 계정 URL: <a href="https://gsholdings.freshservice.com/" target="_blank">https://gsholdings.freshservice.com/</a>
 
 ## 파트 1: ITSM 워크플로우 구현
 
 ### 1.1 역할 및 부서 설정 (예상 소요 시간: 15분)
 
-▶️ [역할/부서 설정 화면으로 이동](https://gsholdings.freshservice.com/admin/groups)
+▶️ <a href="https://gsholdings.freshservice.com/admin/groups" target="_blank">역할/부서 설정 화면으로 이동</a>
 
 - [ ] 다음 부서(그룹) 생성하기:
   - 현업부서
@@ -32,7 +32,7 @@
 
 ### 1.2 워크플로우 설정 (예상 소요 시간: 30분)
 
-▶️ [워크플로우 설정 화면으로 이동](https://gsholdings.freshservice.com/admin/workflow_automators)
+▶️ <a href="https://gsholdings.freshservice.com/admin/workflow_automators" target="_blank">워크플로우 설정 화면으로 이동</a>
 
 - [ ] 다음 단계로 이루어진 워크플로우 생성:
   1. 현업 담당자 요청 생성
@@ -42,7 +42,7 @@
   5. 처리 완료 알림
   6. 만족도 측정
 
-▶️ [SLA 정책 설정 화면으로 이동](https://gsholdings.freshservice.com/admin/sla_policies)
+▶️ <a href="https://gsholdings.freshservice.com/admin/sla_policies" target="_blank">SLA 정책 설정 화면으로 이동</a>
 
 - [ ] 요청 유형별 SLA 정책 설정:
   - 일반 요청: 24시간
@@ -52,7 +52,7 @@
 
 ### 1.3 테스트 시나리오 실행 (예상 소요 시간: 15분)
 
-▶️ [새 티켓 생성 화면으로 이동](https://gsholdings.freshservice.com/a/tickets/new)
+▶️ <a href="https://gsholdings.freshservice.com/a/tickets/new" target="_blank">새 티켓 생성 화면으로 이동</a>
 
 - [ ] 현업 담당자로 새 요청 생성
 - [ ] 승인자로 로그인하여 승인 처리
@@ -66,7 +66,7 @@
 
 ### 2.1 자산 유형 설정 (예상 소요 시간: 20분)
 
-▶️ [자산 유형 설정 화면으로 이동](https://gsholdings.freshservice.com/admin/asset_types)
+▶️ <a href="https://gsholdings.freshservice.com/admin/asset_types" target="_blank">자산 유형 설정 화면으로 이동</a>
 
 - [ ] 다음 자산 유형 설정:
   - PC/노트북
@@ -83,7 +83,7 @@
 
 ### 2.2 샘플 자산 데이터 가져오기 (예상 소요 시간: 15분)
 
-▶️ [자산 가져오기 화면으로 이동](https://gsholdings.freshservice.com/admin/import_assets)
+▶️ <a href="https://gsholdings.freshservice.com/admin/import_assets" target="_blank">자산 가져오기 화면으로 이동</a>
 
 - [ ] [여기를 클릭하여 샘플 CSV 파일 다운로드](https://raw.githubusercontent.com/wedosoft/freshservice-poc-guide/main/self-service-poc/sample-data/asset-sample.csv)
 - [ ] CSV 파일의 필드와 시스템 필드 매핑
@@ -93,7 +93,7 @@
 
 ### 2.3 자산 라이프사이클 테스트 (예상 소요 시간: 30분)
 
-▶️ [자산 목록 화면으로 이동](https://gsholdings.freshservice.com/cmdb/items)
+▶️ <a href="https://gsholdings.freshservice.com/cmdb/items" target="_blank">자산 목록 화면으로 이동</a>
 
 다음 시나리오를 테스트해보세요:
 
@@ -115,7 +115,7 @@
 
 ### 2.4 자산 보고서 생성 (예상 소요 시간: 15분)
 
-▶️ [보고서 화면으로 이동](https://gsholdings.freshservice.com/reports)
+▶️ <a href="https://gsholdings.freshservice.com/reports" target="_blank">보고서 화면으로 이동</a>
 
 - [ ] 다음 보고서 생성:
   - 부서별 자산 현황
