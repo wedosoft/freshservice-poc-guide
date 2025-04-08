@@ -42,6 +42,7 @@ GS-SVR-0001,Dell PowerEdge R750,서버,Dell,PowerEdge R750,BCD567890,2023-01-05,
 ```
 
 **CSV 파일 준비 팁**: UTF-8 인코딩으로 저장, 한글 칼럼명 사용 가능
+
 **[샘플 파일 다운로드](./sample-data/asset-sample.csv)**
 
 ## 4. 주요 테스트 시나리오

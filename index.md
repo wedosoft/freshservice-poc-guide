@@ -3,7 +3,7 @@ layout: default
 ---
 <a id="top"></a>
 
-[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/)
+[셀프 POC 가이드](./self-service-poc/){:target="_blank"} | [자산관리 워크플로우](./asset-management/){:target="_blank"} | [ITSM 워크플로우](./itsm-workflow/){:target="_blank"} | [라이선스 권장사항](./license-recommendations/){:target="_blank"} | [PoC 전략](./strategy/){:target="_blank"}
 
 # GS Freshservice PoC 가이드
 
@@ -21,22 +21,22 @@ layout: default
 
 각 영역에 대한 상세 가이드를 제공합니다:
 
-- **[셀프 POC 가이드](./self-service-poc/)**: 직접 따라할 수 있는 단계별 실습 가이드
-- **[ITSM 워크플로우](./itsm-workflow/)**: 승인 프로세스 및 자동화 구현 방법
-- **[자산관리 워크플로우](./asset-management/)**: 자산 수명주기 관리 및 CSV 업로드 방법
-- **[라이선스 권장사항](./license-recommendations/)**: Pro/Enterprise 플랜 비교 및 선택 가이드
-- **[PoC 전략](./strategy/)**: PoC 목표, 일정, 성공 기준 안내
+- **[셀프 POC 가이드](./self-service-poc/){:target="_blank"}**: 직접 따라할 수 있는 단계별 실습 가이드
+- **[ITSM 워크플로우](./itsm-workflow/){:target="_blank"}**: 승인 프로세스 및 자동화 구현 방법
+- **[자산관리 워크플로우](./asset-management/){:target="_blank"}**: 자산 수명주기 관리 및 CSV 업로드 방법
+- **[라이선스 권장사항](./license-recommendations/){:target="_blank"}**: Pro/Enterprise 플랜 비교 및 선택 가이드
+- **[PoC 전략](./strategy/){:target="_blank"}**: PoC 목표, 일정, 성공 기준 안내
 
 ## 주요 링크
 
-- **[ITSM 워크플로우 설정](https://gsholdings.freshservice.com/admin/workflow_automators)**: 워크플로우 자동화 설정
-- **[자산 관리](https://gsholdings.freshservice.com/cmdb/items)**: 자산 목록 및 관리
-- **[티켓 생성](https://gsholdings.freshservice.com/a/tickets/new)**: 새 요청 생성
-- **[라이선스 관리](https://gsholdings.freshservice.com/admin/subscription)**: 구독 정보 확인
+- **[ITSM 워크플로우 설정](https://gsholdings.freshservice.com/admin/workflow_automators){:target="_blank"}**: 워크플로우 자동화 설정
+- **[자산 관리](https://gsholdings.freshservice.com/cmdb/items){:target="_blank"}**: 자산 목록 및 관리
+- **[티켓 생성](https://gsholdings.freshservice.com/a/tickets/new){:target="_blank"}**: 새 요청 생성
+- **[라이선스 관리](https://gsholdings.freshservice.com/admin/subscription){:target="_blank"}**: 구독 정보 확인
 
 ## 문의
 
 PoC 진행 중 문의사항: support@wedosoft.net
 
-[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/)
+[셀프 POC 가이드](./self-service-poc/){:target="_blank"} | [자산관리 워크플로우](./asset-management/){:target="_blank"} | [ITSM 워크플로우](./itsm-workflow/){:target="_blank"} | [라이선스 권장사항](./license-recommendations/){:target="_blank"} | [PoC 전략](./strategy/){:target="_blank"}
 
