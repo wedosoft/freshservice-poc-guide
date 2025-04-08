@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/)
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/)
 
 # ITSM 워크플로우 템플릿
 
@@ -265,4 +265,4 @@ GS의 IT 서비스 관리 프로세스를 Freshservice를 통해 자동화하고
 - 만족도 점수 추세 분석
 - 반복적인 요청 패턴 식별 및 개선 방안 수립
 
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/)
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/)
