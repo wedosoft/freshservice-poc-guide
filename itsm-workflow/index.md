@@ -16,9 +16,9 @@ Freshservice에서 관리 가능한 ITSM 워크플로우:
 
 | 설정 항목 | 실습 링크 | 주요 기능 |
 |---------|-----------|---------|
-| 사용자/그룹 관리 | [사용자 관리](https://gsholdings.freshservice.com/ws/2/admin/home) | 역할, 부서, 그룹 설정 |
-| 워크플로우 자동화 | [자동화 설정](https://gsholdings.freshservice.com/ws/2/admin/automators) | 승인 요청, 할당 규칙, 알림 설정 |
-| SLA 정책 | [SLA 설정](https://gsholdings.freshservice.com/ws/2/admin/sla_policies) | 응답/해결 시간 설정 |
+| 사용자/그룹 관리 | [사용자 관리](https://gsholdings.freshservice.com/ws/2/admin/home){:target="_blank"} | 역할, 부서, 그룹 설정 |
+| 워크플로우 자동화 | [자동화 설정](https://gsholdings.freshservice.com/ws/2/admin/automators){:target="_blank"} | 승인 요청, 할당 규칙, 알림 설정 |
+| SLA 정책 | [SLA 설정](https://gsholdings.freshservice.com/ws/2/admin/sla_policies){:target="_blank"} | 응답/해결 시간 설정 |
 
 ### 2.1 사용자 관리 구성요소
 
