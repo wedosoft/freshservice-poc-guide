@@ -17,12 +17,12 @@
 
 ▶️ <a href="https://gsholdings.freshservice.com/admin/groups" target="_blank">역할/부서 설정 화면으로 이동</a>
 
-- [ ] 다음 부서(그룹) 생성하기:
+- 다음 부서(그룹) 생성하기:
   - 현업부서
   - IT부서
   - IT운영팀
 
-- [ ] 다음 역할 설정하기:
+- 다음 역할 설정하기:
   - 현업 담당자
   - 현업 리더 (승인자)
   - IT 담당자
@@ -34,7 +34,7 @@
 
 ▶️ <a href="https://gsholdings.freshservice.com/admin/workflow_automators" target="_blank">워크플로우 설정 화면으로 이동</a>
 
-- [ ] 다음 단계로 이루어진 워크플로우 생성:
+- 다음 단계로 이루어진 워크플로우 생성:
   1. 현업 담당자 요청 생성
   2. 현업 리더 승인 단계
   3. IT 담당자 확인 및 할당
@@ -44,7 +44,7 @@
 
 ▶️ <a href="https://gsholdings.freshservice.com/admin/sla_policies" target="_blank">SLA 정책 설정 화면으로 이동</a>
 
-- [ ] 요청 유형별 SLA 정책 설정:
+- 요청 유형별 SLA 정책 설정:
   - 일반 요청: 24시간
   - 긴급 요청: 4시간
 
@@ -54,11 +54,11 @@
 
 ▶️ <a href="https://gsholdings.freshservice.com/a/tickets/new" target="_blank">새 티켓 생성 화면으로 이동</a>
 
-- [ ] 현업 담당자로 새 요청 생성
-- [ ] 승인자로 로그인하여 승인 처리
-- [ ] IT 담당자로 로그인하여 티켓 할당
-- [ ] IT 운영팀으로 로그인하여 티켓 처리
-- [ ] 요청자로 돌아가 만족도 평가 입력
+- 현업 담당자로 새 요청 생성
+- 승인자로 로그인하여 승인 처리
+- IT 담당자로 로그인하여 티켓 할당
+- IT 운영팀으로 로그인하여 티켓 처리
+- 요청자로 돌아가 만족도 평가 입력
 
 ✅ **완료 확인**: 전체 워크플로우가 오류 없이 실행되고, 각 단계별 알림이 정상 작동합니다.
 
@@ -68,12 +68,12 @@
 
 ▶️ <a href="https://gsholdings.freshservice.com/admin/asset_types" target="_blank">자산 유형 설정 화면으로 이동</a>
 
-- [ ] 다음 자산 유형 설정:
+- 다음 자산 유형 설정:
   - PC/노트북
   - 모바일/태블릿
   - 주변기기
 
-- [ ] 각 자산 유형에 필요한 사용자 정의 필드 추가:
+- 각 자산 유형에 필요한 사용자 정의 필드 추가:
   - 구매일자
   - 보증기간
   - 담당부서
@@ -85,9 +85,9 @@
 
 ▶️ <a href="https://gsholdings.freshservice.com/admin/import_assets" target="_blank">자산 가져오기 화면으로 이동</a>
 
-- [ ] [여기를 클릭하여 샘플 CSV 파일 다운로드](https://raw.githubusercontent.com/wedosoft/freshservice-poc-guide/main/self-service-poc/sample-data/asset-sample.csv)
-- [ ] CSV 파일의 필드와 시스템 필드 매핑
-- [ ] 데이터 가져오기 실행
+- [여기를 클릭하여 샘플 CSV 파일 다운로드](https://raw.githubusercontent.com/wedosoft/freshservice-poc-guide/main/self-service-poc/sample-data/asset-sample.csv)
+- CSV 파일의 필드와 시스템 필드 매핑
+- 데이터 가져오기 실행
 
 ✅ **완료 확인**: 모든 샘플 자산이 오류 없이 시스템에 등록되었습니다.
 
@@ -97,16 +97,16 @@
 
 다음 시나리오를 테스트해보세요:
 
-- [ ] 신규 직원 입사 → 자산 할당
+- 신규 직원 입사 → 자산 할당
   - 새 직원 생성
   - 미할당 자산을 직원에게 할당
   - 자산 상태 변경
 
-- [ ] 자산 이관
+- 자산 이관
   - 한 사용자에서 다른 사용자로 자산 이관
   - 이관 내역 기록
 
-- [ ] 자산 반납 및 폐기
+- 자산 반납 및 폐기
   - 사용자로부터 자산 회수
   - 자산 상태를 '폐기 대기'로 변경
   - 폐기 프로세스 실행
@@ -117,7 +117,7 @@
 
 ▶️ <a href="https://gsholdings.freshservice.com/reports" target="_blank">보고서 화면으로 이동</a>
 
-- [ ] 다음 보고서 생성:
+- 다음 보고서 생성:
   - 부서별 자산 현황
   - 자산 유형별 분포
   - 만료 예정 보증 목록

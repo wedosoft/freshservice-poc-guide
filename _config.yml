@@ -3,6 +3,8 @@ plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
 
+permalink: pretty
+
 github:
   is_project_page: false
 
@@ -15,6 +17,8 @@ show_github_button: false
 navigation:
   - title: 홈
     url: /
+  - title: 셀프 POC 가이드
+    url: /self-service-poc/
   - title: PoC 전략
     url: /strategy/
   - title: ITSM 워크플로우
