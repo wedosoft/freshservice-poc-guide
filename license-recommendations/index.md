@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [PoC 전략](../strategy/)
+# Freshservice 라이선스 권장사항
 
-# 라이선스 권장사항
+## 1. 소개
+엔터프라이즈 요건에 맞는 Freshservice 라이선스 플랜 선택을 위한 권장사항과 고려사항을 제공합니다.
 
 ## 1. Freshservice 라이선스 플랜 개요
 
@@ -306,5 +307,3 @@ GS의 요구사항과 현재 IT 환경을 종합적으로 분석한 결과, 다�
    - 정기적인 ROI 측정 및 보고
 
 4. **사용자 온보딩 경험 향상**
-
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [PoC 전략](../strategy/)
