@@ -5,10 +5,14 @@ layout: default
 
 # Freshservice 라이선스 권장사항
 
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/subscription" target="_blank">Freshservice 라이선스 관리</a>
+
 ## 1. 소개
 엔터프라이즈 요건에 맞는 Freshservice 라이선스 플랜 선택을 위한 권장사항과 고려사항을 제공합니다.
 
 ## 1. Freshservice 라이선스 플랜 개요
+
+> **실습 링크**: <a href="https://www.freshworks.com/freshservice/pricing/" target="_blank">Freshservice 가격 정책</a>
 
 Freshservice는 기업의 규모와 요구사항에 따라 다양한 라이선스 플랜을 제공합니다. 각 플랜은 기능과 가격 측면에서 차이가 있으며, 조직의 ITSM 요구사항에 맞게 선택할 수 있습니다.
 

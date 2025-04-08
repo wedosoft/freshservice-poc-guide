@@ -5,6 +5,8 @@ layout: default
 
 # Freshservice PoC 전략 가이드
 
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/" target="_blank">Freshservice 메인 페이지</a>
+
 ## 1. PoC 개요
 
 ### 배경
@@ -26,6 +28,9 @@ layout: default
 ## 2. PoC 진행 전략
 
 ### 2.1 PoC 준비 단계
+
+> **실습 링크**: <a href="https://www.freshworks.com/freshservice/signup/" target="_blank">Freshservice 무료 체험판 등록</a>
+
 1. **트라이얼 라이선스 설정**
    - Freshservice Enterprise 트라이얼 라이선스 제공 (14일)
    - GS 도메인으로 Freshservice 인스턴스 생성 (<a href="https://gsholdings.freshservice.com" target="_blank">https://gsholdings.freshservice.com</a>)
@@ -36,6 +41,9 @@ layout: default
    - 자산관리 기능 교육 (1시간)
 
 ### 2.2 PoC 실행 단계
+
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/dashboard" target="_blank">Freshservice 관리자 대시보드</a>
+
 1. **ITSM 워크플로우 구현**
    - 워크플로우 설계 및 구성 (1일)
    - 승인 프로세스 설정 (0.5일)

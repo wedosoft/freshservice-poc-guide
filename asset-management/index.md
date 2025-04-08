@@ -5,6 +5,8 @@ layout: default
 
 # 자산관리 워크플로우 템플릿
 
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/asset_types" target="_blank">Freshservice 자산 관리 페이지</a>
+
 ## 1. 자산관리 개요
 
 ### 목적
@@ -117,6 +119,8 @@ GS의 IT 자산 수명주기를 Freshservice를 통해 효율적으로 관리하
 
 아래는 PC 및 태블릿 자산 데이터의 CSV 샘플입니다. 이 형식으로 데이터를 준비하여 Freshservice에 일괄 업로드할 수 있습니다.
 
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/import_assets" target="_blank">자산 가져오기 페이지</a>
+
 ```csv
 자산_태그,자산명,자산_유형,제조사,모델,시리얼_번호,구매일,보증_만료일,상태,할당_상태,위치,사용자,부서,할당일,OS,CPU,RAM,스토리지
 GS-PC-0001,Dell Latitude 7420,노트북,Dell,Latitude 7420,ABC123456,2023-01-15,2026-01-14,사용 중,할당됨,본사 3층,홍길동,마케팅,2023-01-20,Windows 11 Pro,Intel i7-1185G7,16GB,512GB SSD
@@ -146,6 +150,8 @@ GS-PC-0015,Dell Latitude 9420,노트북,Dell,Latitude 9420,CDE901234,2023-09-10,
 
 #### 워크플로우 개요
 신규 입사자에게 필요한 IT 자산을 준비하고 할당하는 프로세스입니다.
+
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/workflow_automators" target="_blank">워크플로우 자동화 설정 페이지</a>
 
 #### 워크플로우 단계
 1. **입사 예정 알림**

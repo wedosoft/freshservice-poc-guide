@@ -5,6 +5,8 @@ layout: default
 
 # ITSM 워크플로우 템플릿
 
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/a/dashboard" target="_blank">Freshservice 대시보드</a>
+
 ## 1. 워크플로우 개요
 
 ### 목적
@@ -41,6 +43,8 @@ GS의 IT 서비스 관리 프로세스를 Freshservice를 통해 자동화하고
 
 ### 3.1 기본 설정
 
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/account_setup" target="_blank">Freshservice 관리자 설정</a>
+
 #### 관리자 계정 설정
 1. 관리자 > 계정 설정에서 기본 정보 확인
 2. 관리자 > 사용자 관리에서 필요한 사용자 계정 생성
@@ -60,6 +64,8 @@ GS의 IT 서비스 관리 프로세스를 Freshservice를 통해 자동화하고
    - 종료(Closed): 요청자 확인 후 티켓 종료 상태
 
 ### 3.2 서비스 카탈로그 설정
+
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/service_catalog" target="_blank">서비스 카탈로그 설정</a>
 
 #### 서비스 카탈로그 구성
 1. 관리자 > 서비스 카탈로그 > 카테고리에서 다음 카테고리 생성:
@@ -91,6 +97,8 @@ GS의 IT 서비스 관리 프로세스를 Freshservice를 통해 자동화하고
 ### 3.3 승인 프로세스 설정
 
 > **팁**: 단순한 승인 프로세스로 시작하면 시스템에 쉽게 적응하고 나중에 필요에 따라 확장할 수 있습니다.
+
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/workflow_automators" target="_blank">워크플로우 자동화 설정</a>
 
 **1단계: 기본 승인 워크플로우 생성**
 1. **관리자** 메뉴로 이동
@@ -139,6 +147,8 @@ GS의 IT 서비스 관리 프로세스를 Freshservice를 통해 자동화하고
 
 ### 3.4 SLA 및 알림 설정
 
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/sla_policies" target="_blank">SLA 정책 설정</a>
+
 #### SLA 정책 설정
 1. 관리자 > SLA에서:
    - 새 SLA 정책 생성
@@ -174,6 +184,8 @@ GS의 IT 서비스 관리 프로세스를 Freshservice를 통해 자동화하고
 ## 4. 시연 시나리오
 
 ### 시나리오 1: 소프트웨어 설치 요청 (Adobe Premiere Pro)
+
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/a/tickets/new" target="_blank">새 티켓 생성</a>
 
 #### 단계 1: 요청 생성
 1. 사용자가 서비스 포털에 로그인
