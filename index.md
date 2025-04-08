@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/)
+
 # GS Freshservice PoC 가이드
 
 이 웹사이트는 GS의 Freshservice 도입을 위한 PoC(Proof of Concept) 가이드 및 자료를 제공합니다.
@@ -27,6 +29,9 @@ layout: default
 
 ## 주요 섹션
 
+### [셀프 POC 가이드](./self-service-poc)
+고객이 직접 Freshservice를 평가할 수 있는 단계별 셀프 가이드입니다. ITSM 워크플로우와 IT자산관리 기능을 직접 구현하고 테스트할 수 있는 상세 지침을 제공합니다.
+
 ### [PoC 전략](./strategy)
 PoC 목표, 진행 전략, 성공 기준, 일정 제안 등을 상세히 설명한 문서입니다. 2주간의 PoC를 통해 주요 기능을 검증하고 실제 환경에서의 적용 가능성을 평가할 수 있습니다.
 
@@ -38,4 +43,17 @@ PC, 태블릿 등 자산 데이터 샘플과 자산 수명주기 관리 워크�
 
 ### [라이선스 권장사항](./license-recommendations)
 Pro와 Enterprise 플랜의 상세 비교 분석과 GS에 적합한 라이선스 권장사항입니다.
+
+## PoC 진행 방법
+
+1. [셀프 POC 가이드](./self-service-poc)를 참고하여 단계별로 Freshservice 기능을 직접 테스트해보세요.
+2. 제공된 샘플 데이터와 템플릿을 활용하여 실제 환경과 유사한 테스트를 수행하세요.
+3. 평가를 마친 후 담당자에게 연락하여 다음 단계를 논의해주세요.
+
+## 지원 
+
+PoC 진행 중 문의사항이 있으시면 담당자에게 연락해 주세요:
+- 이메일: support@wedosoft.net
+
+[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/)
 
