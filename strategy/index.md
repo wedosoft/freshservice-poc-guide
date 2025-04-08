@@ -27,19 +27,14 @@ layout: default
 
 ## 2. PoC 진행 전략
 
-### 2.1 PoC 준비 단계
+### 2.1 PoC 준비 단계 (참고 - 이미 준비 완료)
 
-> **실습 링크**: <a href="https://www.freshworks.com/freshservice/signup/" target="_blank">Freshservice 무료 체험판 등록</a>
+> **참고**: 아래 준비 단계는 이미 완료되었으므로 참고용으로만 확인하시기 바랍니다.
 
-1. **트라이얼 라이선스 설정**
-   - Freshservice Enterprise 트라이얼 라이선스 제공 (14일)
-   - GS 도메인으로 Freshservice 인스턴스 생성 (<a href="https://gsholdings.freshservice.com" target="_blank">https://gsholdings.freshservice.com</a>)
+**트라이얼 라이선스 설정**
+- Freshservice Enterprise 트라이얼 라이선스 제공 (14일)
+- GS 도메인으로 Freshservice 인스턴스 생성 (<a href="https://gsholdings.freshservice.com" target="_blank">https://gsholdings.freshservice.com</a>)
    
-2. **사전 교육 세션**
-   - Freshservice 기본 기능 및 인터페이스 소개 (1시간)
-   - 워크플로우 구성 방법 교육 (1시간)
-   - 자산관리 기능 교육 (1시간)
-
 ### 2.2 PoC 실행 단계
 
 > **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/dashboard" target="_blank">Freshservice 관리자 대시보드</a>
