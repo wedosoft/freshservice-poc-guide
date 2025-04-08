@@ -16,10 +16,10 @@ Freshservice에서 관리 가능한 자산 수명주기:
 
 | 설정 항목 | 실습 링크 | 주요 기능 |
 |---------|-----------|---------|
-| 자산 가져오기 | [데이터 업로드](https://gsholdings.freshservice.com/cmdb/items) | CSV 파일로 자산 데이터 대량 등록 |
-| 자산 유형 관리 | [유형 설정](https://gsholdings.freshservice.com/cmdb/ci_types) | 하드웨어, 소프트웨어 등 유형별 속성 정의 |
-| 자산 자동화 | [워크플로우 설정](https://gsholdings.freshservice.com/ws/2/admin/automators) | 자산 상태 변경, 알림 자동화 |
-| 보고서 | [자산 보고서](https://gsholdings.freshservice.com/analytics) | 자산 현황 분석 및 시각화 |
+| 자산 가져오기 | [데이터 업로드](https://gsholdings.freshservice.com/cmdb/items){:target="_blank"} | CSV 파일로 자산 데이터 대량 등록 |
+| 자산 유형 관리 | [유형 설정](https://gsholdings.freshservice.com/cmdb/ci_types){:target="_blank"} | 하드웨어, 소프트웨어 등 유형별 속성 정의 |
+| 자산 자동화 | [워크플로우 설정](https://gsholdings.freshservice.com/ws/2/admin/automators){:target="_blank"} | 자산 상태 변경, 알림 자동화 |
+| 보고서 | [자산 보고서](https://gsholdings.freshservice.com/analytics){:target="_blank"} | 자산 현황 분석 및 시각화 |
 
 ## 3. 샘플 데이터 활용
 
