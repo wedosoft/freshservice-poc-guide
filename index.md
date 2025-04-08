@@ -3,7 +3,7 @@ layout: default
 ---
 <a id="top"></a>
 
-[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/) | <a href="#top">맨 위로</a>
+[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/)
 
 # GS Freshservice PoC 가이드
 
@@ -38,5 +38,5 @@ layout: default
 
 PoC 진행 중 문의사항: support@wedosoft.net
 
-[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/) | <a href="#top">맨 위로</a>
+[셀프 POC 가이드](./self-service-poc/) | [자산관리 워크플로우](./asset-management/) | [ITSM 워크플로우](./itsm-workflow/) | [라이선스 권장사항](./license-recommendations/) | [PoC 전략](./strategy/)
 

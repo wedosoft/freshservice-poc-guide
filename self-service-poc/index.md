@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | <a href="#top" id="top">맨 위로</a>
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/)
 
 # Freshservice 셀프 POC 가이드
 
@@ -208,4 +208,4 @@ POC를 완료한 후:
 2. 담당자와 결과 논의 (위두소프트 이우석 이사 alan@wedosoft.net)
 3. 필요한 경우 추가 테스트 계획 수립
 
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | <a href="#top">맨 위로</a> 
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) 
