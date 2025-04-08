@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [ITSM 워크플로우](../itsm-workflow/)
+
 # Freshservice PoC 전략 가이드
 
 ## 1. PoC 개요
@@ -166,3 +168,5 @@ GS의 요구사항과 현재 IT 환경을 고려할 때, Freshservice는 ITSM �
 3. **전문가 지원**: 초기 설정 및 구성 단계에서 전문가 지원을 활용하여 최적의 결과를 얻을 것을 권장합니다.
 
 4. **자산관리 최적화**: 한글 CSV 업로드 및 자산 수명주기 관리를 위한 상세 가이드는 [자산관리 워크플로우](../asset-management/) 문서를 참조하십시오.
+
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [ITSM 워크플로우](../itsm-workflow/)

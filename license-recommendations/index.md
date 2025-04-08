@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [PoC 전략](../strategy/)
+
 # Freshservice 라이선스 권장사항
 
 ## 1. 소개
@@ -307,3 +309,5 @@ GS의 요구사항과 현재 IT 환경을 종합적으로 분석한 결과, 다�
    - 정기적인 ROI 측정 및 보고
 
 4. **사용자 온보딩 경험 향상**
+
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [PoC 전략](../strategy/)
