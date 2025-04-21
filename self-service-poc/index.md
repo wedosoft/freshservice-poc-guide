@@ -1,11 +1,29 @@
 ---
 layout: default
 ---
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/)
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | <a href="#top" id="top">맨 위로</a>
 
 # Freshservice 셀프 POC 가이드
 
 > **실습 링크**: <a href="https://gsholdings.freshservice.com/" target="_blank">Freshservice 인스턴스 바로가기</a>
+
+## 문서 안내
+
+Freshservice POC 가이드는 다음과 같이 구성되어 있습니다:
+
+| 문서명 | 목적 | 주요 내용 |
+|-------|------|----------|
+| **셀프 POC 가이드** (현재 문서) | 전체 POC 프로세스 개요 안내 | POC 범위, 주요 단계, 기본 설정 방법 |
+| [ITSM 워크플로우](../itsm-workflow/) | ITSM 워크플로우 세부 구현 방법 | 요청-승인-할당-처리-만족도 측정 워크플로우 상세 구성 |
+| [자산관리 워크플로우](../asset-management/) | 자산관리 세부 구현 방법 | 자산 등록, 할당, 회수, 폐기 프로세스 상세 구성 |
+| [라이선스 권장사항](../license-recommendations/) | 라이선스 분석 정보 | Pro와 Enterprise 플랜 비교, TCO 분석 |
+| [PoC 전략](../strategy/) | 전체 PoC 진행 전략 | 준비 단계, 실행 단계, 평가 단계, 성공 기준 |
+
+**기본 접근 방법:**
+1. 현재 문서(셀프 POC 가이드)에서 전체 흐름 확인
+2. 각 워크플로우 문서에서 상세 구현 방법 참조
+3. 라이선스 권장사항 문서에서 플랜 비교 정보 확인
+4. PoC 전략 문서에서 전체 PoC 프로세스 이해
 
 ## 개요
 
@@ -208,4 +226,4 @@ POC를 완료한 후:
 2. 담당자와 결과 논의 (위두소프트 이우석 이사 alan@wedosoft.net)
 3. 필요한 경우 추가 테스트 계획 수립
 
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) 
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | <a href="#top">맨 위로</a> 

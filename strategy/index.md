@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [셀프 POC 가이드](../self-service-poc/)
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [셀프 POC 가이드](../self-service-poc/) | <a href="#top" id="top">맨 위로</a>
 
 # Freshservice PoC 전략 가이드
 
@@ -37,7 +37,7 @@ layout: default
    
 ### 2.2 PoC 실행 단계
 
-> **실습 링크**: <a href="https://gsholdings.freshservice.com/admin/dashboard" target="_blank">Freshservice 관리자 대시보드</a>
+> **실습 링크**: <a href="https://gsholdings.freshservice.com/a/dashboard" target="_blank">Freshservice 관리자 대시보드</a>
 
 1. **ITSM 워크플로우 구현**
    - 워크플로우 설계 및 구성 (1일)
@@ -172,4 +172,4 @@ GS의 요구사항과 현재 IT 환경을 고려할 때, Freshservice는 ITSM �
 
 4. **자산관리 최적화**: 한글 CSV 업로드 및 자산 수명주기 관리를 위한 상세 가이드는 [자산관리 워크플로우](../asset-management/) 문서를 참조하십시오.
 
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [셀프 POC 가이드](../self-service-poc/)
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [셀프 POC 가이드](../self-service-poc/) | <a href="#top">맨 위로</a>
