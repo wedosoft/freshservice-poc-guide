@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/) | <a href="#top" id="top">맨 위로</a>
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/)
 
 # ITSM 워크플로우 
 
@@ -163,4 +163,4 @@ Freshservice에서 관리 가능한 ITSM 워크플로우:
 - **감사 추적**: 티켓 기록에 모든 변경 내역과 액션이 기록되었는지 확인
 - **보고서**: 워크플로우 전체 과정이 보고서에 정확히 반영되는지 확인
 
-[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/) | <a href="#top">맨 위로</a>
+[홈으로 돌아가기](../) | [자산관리 워크플로우](../asset-management/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/)

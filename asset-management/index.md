@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[홈으로 돌아가기](../) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/) | <a href="#top" id="top">맨 위로</a>
+[홈으로 돌아가기](../) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/)
 
 # 자산관리 워크플로우
 
@@ -258,4 +258,4 @@ GS-SVR-0001,Dell PowerEdge R750,서버,Dell,PowerEdge R750,BCD567890,2023-01-05,
 - **자동화 규칙**: 설정한 자동화 규칙이 예상대로 작동하는지 확인
 - **보고서**: 자산 데이터가 보고서와 대시보드에 정확히 반영되는지 확인
 
-[홈으로 돌아가기](../) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/) | <a href="#top">맨 위로</a>
+[홈으로 돌아가기](../) | [ITSM 워크플로우](../itsm-workflow/) | [라이선스 권장사항](../license-recommendations/) | [PoC 전략](../strategy/) | [셀프 POC 가이드](../self-service-poc/)
