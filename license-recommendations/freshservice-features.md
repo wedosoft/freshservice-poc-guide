@@ -1,3 +1,8 @@
+---
+title: "Freshservice 서비스 관리 기능 종합 가이드"
+description: "Freshservice Plan별 기능 비교자료"
+---
+
 # Freshservice 서비스 관리 기능 종합 가이드
 
 ## 📊 요금제 비교
